@@ -7,13 +7,13 @@
 <br>
 <br>
 
-### Jan Beránek
+### [Honzik.Dev](https://honzik.dev)
 
 *Building quiet, thoughtful software.*
 
 <br>
 
-[honzik.dev](https://honzik.dev) &nbsp;·&nbsp; [github](https://github.com/Honzik-Dev) &nbsp;·&nbsp; [hello@honzik.dev](mailto:hello@honzik.dev)
+[github](https://github.com/Honzik-Dev) &nbsp;·&nbsp; [hello@honzik.dev](mailto:hello@honzik.dev)
 
 </div>
 
