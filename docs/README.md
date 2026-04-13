@@ -7,7 +7,7 @@
 <br>
 <br>
 
-### [Honzik.Dev](https://honzik.dev)
+# [Honzik.Dev](https://honzik.dev)
 
 *Building quiet, thoughtful software.*
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### Selected work
+# Selected work
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### Contact
+# Contact
 
 <br>
 
