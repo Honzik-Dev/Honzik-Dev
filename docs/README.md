@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Honzik-Dev.png" width="120" alt="Jan Beránek">
+<img src="https://github.com/Honzik-Dev.png" width="120" alt="Honzik.Dev Logo">
 
 <br>
 <br>
