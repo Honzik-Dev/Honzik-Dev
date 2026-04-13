@@ -27,7 +27,7 @@
 
 <div align="center">
 
-# Selected work
+## Selected work
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-# Contact
+## Contact
 
 <br>
 
