@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 ## Hi there 👋
 
 <!--
